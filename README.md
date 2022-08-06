@@ -1,7 +1,7 @@
 # Madhumeh-Anumaan
 
 A machine learning model, Madhumeh-Anumaan, to predict whether a patient has diabetes based on diagnostic measurements.
-The 8 diagnostic measures are Age, BMI, Diabetes Pedigree Function, Insulin, Blood Pressure, Skin Thickness, Glucose and Pregnancy.
+The 9 diagnostic measures are Age, BMI, Diabetes Pedigree Function, Insulin, Blood Pressure, Skin Thickness, Glucose and Pregnancy.
 
 Dataset link: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
